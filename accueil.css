@@ -1,0 +1,11 @@
+#cursus{
+    border-style: 2px;
+    background-color: green;
+}
+body{
+    background-color: rgb(94, 255, 0);
+    background-image: url(p.jpg);
+}
+em{
+    text-decoration: underline;
+}

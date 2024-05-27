@@ -1,0 +1,22 @@
+table{
+    background-image: url(po.jpg);
+}
+tbody{
+    border-collapse: collapse;
+}
+p{
+    color: white;
+}
+.container{
+    display: block;
+    align-self: center;
+    justify-self: center;
+}
+button{
+    text-align: center;
+    background-color: green;
+    border-radius: 30px;
+}
+body{
+    background-color: aquamarine;
+}
